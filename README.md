@@ -1,2 +1,2 @@
-# weather_app
-I have made a basic weather app using python
+i have completed my intersnhip in Oasis Infobyte
+i have completed 3 projects 
